@@ -19,4 +19,4 @@ Tuning notes:
 2. When determining the location of the HE sensor it helps to use reusable adhesive (e.g. Blu-Tack:registered:) to temporarily affix it. Depending on sensor packaging it should be electrically isolated to avoid contact with the metal pedal. This could be done with cardboard or some other material.
 3. Alternate magnet and HE sensor locations can be considered. For example: a magnet moved to the bottom of the pedal and HE sensor affixed to the frame. This would be similar to how the Thrustmaster T-LCM pedals work. Another approach would be to place magnet and HE sensor so they are inline at either end of the compression spring.
 
-See [documentation](documentation) page for wiring diagram and examples.
+See the [documentation](documentation) for wiring diagram and examples.
