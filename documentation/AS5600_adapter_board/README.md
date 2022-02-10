@@ -1,0 +1,1 @@
+This implementation uses an [AS5600](https://ams.com/en/AS5600) adaptor [board](https://ams.com/as5600adapterboard) to replace the Hall Effect sensors on the Fanatec CSPV1.
