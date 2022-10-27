@@ -20,4 +20,4 @@ Notes
 -----
 - The screws to attach the adapter to the pedal make contact with the adapter board.  A dremel or file can be used to remove some of the PCB material at those two points.
 - The adapter board comes with straight headers.  These may need to be replaced with right angle headers to fit in available space between the throttle pedal and the frame.
-- The picture shows the I2C interface being used.  The analog interface had too much analog noise for me.  This required modifications to ArduinoTec-Pedals.
+- The picture shows the I2C interface being used.  The analog interface had too much noise for me.  Using the I2C interface required modifications to ArduinoTec-Pedals.
